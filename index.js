@@ -13,7 +13,17 @@ function johnLennonFacts(){
       "He was never a vegetarian!",
       "He was a choir boy and boy scout!",
       "He hated the sound of his own voice!"
-];
+]
+
+// function johnLennonFacts(facts) {
+   // const arr=[];
+   // let i = 0;
+   // while(facts.length > i){
+    //  arr.push(`${facts[i]}!!!`)
+     // i++
+   // }
+    //return arr
+  //}
 
 
 
